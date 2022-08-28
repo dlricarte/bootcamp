@@ -1,4 +1,4 @@
-# Preparando Ambiente VM para Linux
+# Preparando Ambiente VM para Linux 🚀
 
 1.  Abrir o cmd como Administrador no Windows.
 2. Digite o comando bcdedit.

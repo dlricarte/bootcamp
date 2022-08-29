@@ -16,9 +16,9 @@ wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.z
 #Descompactar repositorio
 unzip main.zip
 #Mover arquivos do repositorio para pasta do Apache2
-mv /tmp/main/* /var/www/html
+mv /tmp/linux-site-dio-main/* /var/www/html
 #Apagar repositorio da pasta temporaria do linux
-rm -Rf /tmp/main
+rm -Rf /tmp/linux-site-dio-main
 #Apagar arquivo compactado do repositorio da pasta temporaria do linux
 rm main.zip
 # Dar permissão para usuário do apache para os arquivos copiados para pasta do apache
